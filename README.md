@@ -6,7 +6,7 @@ Este es un repositorio con la resulución de 14 ejercicios con distintas dificul
 
 # 🎇 Demo del proyecto.
 
-Para poder ver el proyecto, entrá 👉 [Aqui]
+Para poder ver el proyecto, entrá 👉 [Aqui]https://github.com/ledesmapadilla/TP4-Objetos.git
 
 # 💡Tecnologias utilizadas:
 
