@@ -34,7 +34,7 @@ document.writeln(`</ul>`); */
 if (librosGenero.length > 0) {
   document.writeln(`Los libros del genero ${generoElejido} son: `);
   document.writeln(`<ul class= "list-group">`);
-  librosGenero.forEach((item) =>
+  librosGenero.map((item) =>
     document.writeln(`<li class="list-group-item">  ${item.titulo}</li>`)
   );
   document.writeln(`</ul>`);
