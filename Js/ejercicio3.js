@@ -8,7 +8,16 @@ class Rectangulo {
 
   get getalto() {
     return this.#alto;
+  }
+  get getancho() {
     return this.#ancho;
+  }
+
+  set setalto(nuevoAlto) {
+    this.#alto = nuevoAlto;
+  }
+  set setancho(nuevoAncho) {
+    this.#ancho = nuevoAncho;
   }
 
   /* metodos */
