@@ -43,6 +43,8 @@ const producto3 = new Producto(`CH`, `Chocolate Block`, `$300`);
 producto1.imprimirDatos()
 producto2.imprimirDatos()
 producto3.imprimirDatos() 
+
+
 /* creo array de productos */
 
 const productos = [];
